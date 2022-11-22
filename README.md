@@ -1,5 +1,5 @@
 # Python_OPC_Connector
-<img src="images/OPC.png"><img src="images/PY.png">
+<img src="images/OPC.png" height='120'><img src="images/PY.png" height='120'>
 ## Introduction
 OPC (Open Platform Communication) is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries(From OPC Foundation). It was first built on the demand of integrating complex vendor specific protocol(ex: Modbus, Profibus and etc) into a standard one. OPC was once called OLE (Object Linking and Embedding) for process control, and it highly depends on Microsoft’s OLE, COM(Component Object Model) and DCOM(Distributed Component Object Model) technlogy. This early development of OPC was also called OPC classic with three major division: OPC DA(Data Access), AE(Alarms and Events) and HDA(Historical Data Access).
 
